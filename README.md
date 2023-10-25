@@ -1,2 +1,2 @@
 # Wireless-Noticeboard
- Project
+Bluetooth Module and Arduino.
